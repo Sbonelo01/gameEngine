@@ -1,0 +1,23 @@
+{
+  "name": "gamification_engine",
+  "version": "1.0.0",
+  "description": "'A game engine to gamify productivity'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbonelo01/gameEngine.git"
+  },
+  "keywords": [
+    "'Game'",
+    "'oop'"
+  ],
+  "author": "Sbonelo Mkhize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbonelo01/gameEngine/issues"
+  },
+  "homepage": "https://github.com/Sbonelo01/gameEngine#readme"
+}
