@@ -1,9 +1,9 @@
 class GameEngine {
-	constructor(scores){
-	
+	constructor(scores){	
 	}
+	
 	getScore(){
-		// get score code
+		this.score = []
 		for(let i = 0; i < scores.length; i++){
 			if(this.scores[i] <= 0){
 				return 0;
@@ -16,3 +16,4 @@ class GameEngine {
 	}	
 
 }
+
